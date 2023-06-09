@@ -1,0 +1,2 @@
+Ovo je prva datoteka koja se nalazi u teo1 branchu.
+
