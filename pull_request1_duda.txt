@@ -1,1 +1,3 @@
 Ovo je datoteka koja se nalazi u duda1 branchu
+
+Ova datoteka je uređena by Dominik Ivošić
