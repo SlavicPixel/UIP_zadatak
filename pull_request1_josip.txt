@@ -1,1 +1,3 @@
 Ovo je prva datoteka izradjena u josip1 branchu
+
+Ova datoteka je uredjena by Daniel Duda
